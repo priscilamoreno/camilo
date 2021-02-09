@@ -44,9 +44,15 @@ nav ul li {
     float: left;
     list-style: done;
     margin: 10px;
+    font-size:xx-large;
+
 
 }
 footer {
-    text-align: left;
+    text-align: right;
+    color:black;
+    font-size:100%;
+    font-family: arial, sans-serif;
+
     
 }
